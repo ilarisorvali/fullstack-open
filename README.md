@@ -1,1 +1,1 @@
-# fullstack-open
+Repo for Fullstack Open course.
